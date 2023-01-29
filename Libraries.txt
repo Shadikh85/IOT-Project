@@ -1,0 +1,15 @@
+Les Libraries nécessaires pour faire fonctionner le Raspberry Pi:
+    - MongoDB           sudo apt install mongodb-org -y
+    - Pymongo           pip3 install pymongo==3.6.1
+    - fuzzywuzzy        pip3 install fuzzywuzzy
+    - py-picotts        pip3 install py-picotts
+    - pyttsx3           pip3 install pyttsx3 
+    - pyowm             pip3 install pyowm
+    - wikipedia         pip3 install wikipedia
+    - pywhatkit         pip install pywhatkit
+    - pyttsx3           pip install pyttsx3 
+    - pyaudio           pip install pyaudio
+    - SpeechRecognition pip install SpeechRecognition
+    - PyDictionary      pip3 install PyDictionary
+    - pyjokes           pip3 install pyjokes
+    
